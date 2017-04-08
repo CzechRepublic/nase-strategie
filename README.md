@@ -10,7 +10,7 @@ Jako příklad správně provedené publikace dat může sloužit město New Yor
 
 ## Skoro Open Data
 
-MF ČR provozuje [spoustu systémů](http://www.mfcr.cz/cs/o-ministerstvu/informacni-systemy) z nichž některé umožňují dotázat se na libovolné informace ([plátci spotřební a ekologické daně](https://www.celnisprava.cz/cz/aplikace/Stranky/SpdInternet.aspx?act=findspd nebo registr plátců DPH http://adisreg.mfcr.cz/cgi-bin/adis/idph/int_dp_prij.cgi?ZPRAC=FDPHI1&poc_dic=2)) nicméně neumožňují jednoduše získat odpovědi na analytické otázky typu “kolik subjektů se loni stalo plátci daně z piva”. Jako nejbouřlivější příklad může sloužit ARES katalog, který má API, jenž provozovatel nesmyslně blokuje. Přitom jde v součastné době de-facto o veřejná data. 
+MF ČR provozuje [spoustu systémů](http://www.mfcr.cz/cs/o-ministerstvu/informacni-systemy) z nichž některé umožňují dotázat se na libovolné informace ([plátci spotřební a ekologické daně](https://www.celnisprava.cz/cz/aplikace/Stranky/SpdInternet.aspx?act=findspd) nebo [registr plátců DPH](http://adisreg.mfcr.cz/cgi-bin/adis/idph/int_dp_prij.cgi?ZPRAC=FDPHI1&poc_dic=2)) nicméně neumožňují jednoduše získat odpovědi na analytické otázky typu “kolik subjektů se loni stalo plátci daně z piva”. Jako nejbouřlivější příklad může sloužit ARES katalog, který má API, jenž provozovatel nesmyslně blokuje. Přitom jde v součastné době de-facto o veřejná data. 
 
 Data ke kterým se lze veřejně dostat složitou cestu, by měl stát aktivně publikovat!
 
