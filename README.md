@@ -68,3 +68,6 @@ Stát by měl emitovat vlastní krypto měnu (ala bitcoin), která v sobě můž
 # Epilog
 
 Tohle je začátek manifestu IP ekomoniky pro ČR. Samozřejmě, že se bude nějak rozvíjet, ale takto to vidíme a rádi to vysvětlíme komukoliv, kdo se chce zasadit o otevřenou společnost bez korupce… https://github.com/CzechRepublic
+
+Připomínky uvítáme v Issues zde na GitHubu [https://github.com/CzechRepublic/nase-strategie/issues/new](https://github.com/CzechRepublic/nase-strategie/issues/new) nebo v případě neveřejného kontaktování na [czechia@keboola.com](mailto:czechia@keboola.com).
+
