@@ -4,20 +4,21 @@ Všechna existující data, co nejsou striktně tajná či důvěrná, by měl s
 
 ## Open Data
 
-Dnešní stav je tristní - novinář si musí postahovat spousty CSV souborů a dávat dohromady svojí infrastrukturu, aby mohl s daty pracovat. Spousta dat je nadále přístupná jako PDF (jako příklad použiju [**Přehled cenových map**](http://www.mfcr.cz/cs/verejny-sektor/ocenovani-majetku/prehled-cenovych-map)). V některých případech nás od dat dělí “aplikace” co vrací odpovědi do tabulek na webu (http://cedr.mfcr.cz/Cedr3InternetV419/CommonPages/ConditionPage.aspx?queryType=0) nebo máme k dispozici ke stažení spousty dat jejich surové kopie (http://data.mfcr.cz/cs/dataset/dotace-cedr-iii) ve kterých najdeme miliony odkazů zpět na web. 
+Dnešní stav je tristní - novinář si musí postahovat spousty CSV souborů a dávat dohromady svojí infrastrukturu, aby mohl s daty pracovat. Spousta dat je nadále přístupná jako PDF (jako příklad použiju [**Přehled cenových map**](http://www.mfcr.cz/cs/verejny-sektor/ocenovani-majetku/prehled-cenovych-map)). V některých případech nás od dat dělí “aplikace” [co vrací odpovědi do tabulek na webu](http://cedr.mfcr.cz/Cedr3InternetV419/CommonPages/ConditionPage.aspx?queryType=0) nebo máme k dispozici ke stažení spousty dat jejich [surové kopie](http://data.mfcr.cz/cs/dataset/dotace-cedr-iii) ve kterých najdeme miliony odkazů zpět na web. 
 
-Jako příklad správně provedené publikace dat může sloužit město New York, které ukládá data do cloudu, konkrétně do služby Google BigQuery, která komukoliv umožňuje rovnou se dat dotazovat a získávat tak odpovědi na analytické otázky. Příklad: Daňová mapa města New York (http://maps.nyc.gov/taxmap/) + jejich publikace dat v Cloudu (https://cloud.google.com/blog/big-data/2017/01/new-york-city-public-datasets-now-available-on-google-bigquery a http://timingblog.brooklynmarathon.com/2014/04/steps-to-load-new-york-city-property.html). 
+Jako příklad správně provedené publikace dat může sloužit město New York, které ukládá data do cloudu, konkrétně do služby Google BigQuery, která komukoliv umožňuje rovnou se dat dotazovat a získávat tak odpovědi na analytické otázky. Příklad: [Daňová mapa města New York](http://maps.nyc.gov/taxmap/) + jejich [publikace dat v Cloudu](https://cloud.google.com/blog/big-data/2017/01/new-york-city-public-datasets-now-available-on-google-bigquery) a [praktický postup](http://timingblog.brooklynmarathon.com/2014/04/steps-to-load-new-york-city-property.html). 
 
 ## Skoro Open Data
 
-MF ČR provozuje spoustu systémů (http://www.mfcr.cz/cs/o-ministerstvu/informacni-systemy) z nichž některé umožňují dotázat se na libovolné informace (plátci spotřební a ekologické daně https://www.celnisprava.cz/cz/aplikace/Stranky/SpdInternet.aspx?act=findspd nebo registr plátců DPH http://adisreg.mfcr.cz/cgi-bin/adis/idph/int_dp_prij.cgi?ZPRAC=FDPHI1&poc_dic=2) nicméně neumožňují jednoduše získat odpovědi na analytické otázky typu “kolik subjektů se loni stalo plátci daně z piva”. Jako nejbouřlivější příklad může sloužit ARES katalog, který má API, jenž provozovatel nesmyslně blokuje. Přitom jde v součastné době de-facto o veřejná data. 
+MF ČR provozuje [spoustu systémů](http://www.mfcr.cz/cs/o-ministerstvu/informacni-systemy) z nichž některé umožňují dotázat se na libovolné informace ([plátci spotřební a ekologické daně](https://www.celnisprava.cz/cz/aplikace/Stranky/SpdInternet.aspx?act=findspd nebo registr plátců DPH http://adisreg.mfcr.cz/cgi-bin/adis/idph/int_dp_prij.cgi?ZPRAC=FDPHI1&poc_dic=2)) nicméně neumožňují jednoduše získat odpovědi na analytické otázky typu “kolik subjektů se loni stalo plátci daně z piva”. Jako nejbouřlivější příklad může sloužit ARES katalog, který má API, jenž provozovatel nesmyslně blokuje. Přitom jde v součastné době de-facto o veřejná data. 
 
-Data ke kterým se lze veřejně dostat složitou cestu, by měl stát aktivně publikovat.
+Data ke kterým se lze veřejně dostat složitou cestu, by měl stát aktivně publikovat!
 
 ## Praktické použití
 
 Pro propagaci datové otevřenosti skvěle poslouží hackathony. 
-/* doplnit k hackathonum */
+
+/* doplnit k info hackathonum + rozvést myšlenku jak stát sám bude profitovat v denní operativě, pokud se takhle začne chovat */
 
 ## Podaná ruka
 
@@ -39,7 +40,12 @@ Vhodné bankovní prostředí (tč. Česká spořitelna) dokáže zajistit prodm
 
 Vývoj IT systémů probíhá vždy jako Open Source projekt. Dodavatel publikuje zdrojové kódy do veřejného repozitáře, ve kterém kdokoliv může zkontrolovat, jak je dané dílo naprogramované. Státní správa tím získá stabilní zdroj talentů, kteří budou soutěžit IT zakázky. Jsme stát plný startupů s ohromnou penetrací technicky vzdělaných lidí. Využijme to! Otevřené zdrojové kódy neznamenají žádné riziko - transparentnost naopak vede k vysoké míře bezpečnosti, protože kdokoliv může upozornit na problémy. 
 
-/* doplnit témata Docker / API / CI / GitHub / MIT */
+> doplnit témata 
+> - Docker
+> - API
+> - CI
+> - GitHub
+> - MIT 
 
 ## Platby
 
@@ -47,13 +53,10 @@ Stát by měl emitovat vlastní krypto měnu (ala bitcoin), která v sobě můž
 
 ## Interface Stát <> Občané
 
-/* 
- doplnit
- - stát je milý a hejčká nás (hlídá za nás naše problémy a mile se k nám chová )
- - stát se jako e-commerce subjekt snaží o konverze - má analytiky co sledují chování lidí na webu a intenzivně řeší aby se jim web dobře používal (online podání daňového přiznání je UX peklo)
- - co se má stát, abysme měli stát rádi a platili mu rádi daně? transparentní hospodaření s efektem jako přímé daně v UK?
-*/
-
+> doplnit
+> - stát je milý a hejčká nás (hlídá za nás naše problémy a mile se k nám chová )
+> - stát se jako e-commerce subjekt snaží o konverze - má analytiky co sledují chování lidí na webu a intenzivně řeší aby se jim web dobře používal (online podání daňového přiznání je UX peklo)
+> - co se má stát, abysme měli stát rádi a platili mu rádi daně? transparentní hospodaření s efektem jako přímé daně v UK?
 
 # Epilog
 
