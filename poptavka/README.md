@@ -23,7 +23,7 @@ V českém právním řádu je autor díla autorem. Svobodný software neznamen�
 
 Jedna z nejsvobodnější licenci je [**MIT**](https://cs.wikipedia.org/wiki/Licence_MIT) - umožňuje libovolné modifikace díla a jakékoliv použití, včetně komerčního. MIT licencí nemůžete nic zkazit. Pokud si chcete detailně nastudovat principy svobodných licencí, podívejte se na web Právní Prostor - [Jak vybrat licenci k software – manuál pro právníky](http://www.pravniprostor.cz/clanky/obcanske-pravo/jak-vybrat-licenci-k-software-manual-pro-pravniky) a na web creativecommons.cz na [Vydali jsme praktický manuál pro obce k licencím CC](http://www.creativecommons.cz/vydali-jsme-prakticky-manual-pro-obce-k-licencim-cc/)
 
-**Jsme přesvědčeni, že zakázkový software placený z veřejných peněz má být svobodné dílo!**
+Jsme přesvědčeni, že zakázkový software placený z veřejných peněz **má být svobodné dílo!**
 
 ### co je repozitář zdrojových kódů
 
@@ -35,7 +35,7 @@ Repozitíř zdrojového kódu je místo, kde jsou uloženy kódy tvořící soft
   - najít chybu a poslat opravu (pull request)
   - připomínkovat dílo a komunikovat s autorem (issues) 
 
-**Jsme přesvědčeni, že zakázkový software placený z veřejných peněz má být komukoliv otevřený!**
+Jsme přesvědčeni, že zakázkový software placený z veřejných peněz **má být komukoliv otevřený!**
 
 ### proč chtít kód pokrýt testy
 
