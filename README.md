@@ -47,7 +47,7 @@ Vývoj IT systémů probíhá vždy jako Open Source projekt. Stát neplatí ž�
 
 Státní správa tím získá stabilní zdroj talentů, kteří budou soutěžit IT zakázky. Jsme stát plný startupů s ohromnou penetrací technicky vzdělaných lidí. Využijme to! Otevřené zdrojové kódy neznamenají žádné riziko - transparentnost naopak vede k vysoké míře bezpečnosti, protože kdokoliv může upozornit na problémy. 
 
-Jak si představujeme správné poptávání dodavatele zakázkového SW popisujeme ZDE. 
+**Jak si představujeme správné poptávání dodavatele zakázkového SW popisujeme [ZDE](https://github.com/CzechRepublic/nase-strategie/tree/master/poptavka)**. 
 
 ## Platby
 
