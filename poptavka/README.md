@@ -12,12 +12,21 @@ Poptáte-li dodávku "svobodného" software, přihlásí se vám dodavatelé, kt
 
 Vždy po dodavateli požadujeme aby:
 
-1. veškeré zdrojové kódy veřejně publikoval pod licencí MIT do repozitíře zdrojových kódů ([GitHub](https://github.com/), [BitBucket](https://bitbucket.org/)) 
+1. veškeré zdrojové kódy veřejně publikoval pod svobodnou licencí do repozitáře zdrojových kódů 
 2. veškeré funkční celky softwarového díla byly pokryty testy
 3. vyvíjel software v souladu s principy "Continuous Deliver" 
 4. svoje dílo zapouzdřil do Docker kontejneru
 
-### co je MIT licence
+### jakou svobodnou licenci vybrat?
+
+V českém právním řádu je autor díla autorem. Svobodný software neznamená odcizení autorství. Pro užití díla je klíčová licence. Licence je kámen úrazu - klíčový dokument. Pokud je špatně nastavená, dostanete se do slepé uličky, jako před lety [ČSA](http://www.ceskatelevize.cz/ct24/ct24/ekonomika/1371604-reporteri-ct-csa-neopravnene-uzivaji-stare-logo) nebo hlavní město Praha a projekt [OpenCard](http://praha.idnes.cz/praha-odmita-platit-stamiliony-za-licence-k-opencard-f94-/praha-zpravy.aspx?c=A140506_144238_praha-zpravy_klu). 
+
+Jedna z nejsvobodnější licenci je [**MIT**]() - umožňuje libovolné modifikace díla a jakékoliv použití, včetně komerčního. MIT licencí nemůžete nic zkazit. Pokud si chcete detailně nastudovat principy svobodných licencí, podívejte se na web Právní Prostor - [Jak vybrat licenci k software – manuál pro právníky](http://www.pravniprostor.cz/clanky/obcanske-pravo/jak-vybrat-licenci-k-software-manual-pro-pravniky) a na web creativecommons.cz na [Vydali jsme praktický manuál pro obce k licencím CC](http://www.creativecommons.cz/vydali-jsme-prakticky-manual-pro-obce-k-licencim-cc/)
+
+
+### co je repozitář zdrojových kódů
+
+([GitHub](https://github.com/), [BitBucket](https://bitbucket.org/)) 
 
 ### proč chtít kód pokrýt testy
 
