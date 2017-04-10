@@ -47,4 +47,4 @@ Tak jako [vmWare](http://www.vmware.com/) virtualizoval operační systém, virt
 
 Docker [kontejner je bezpečný](https://www.docker.com/docker-security) a důvěřují mu největší firmy na světě, jako např. [Accenture](https://www.docker.com/accenture), [Hewlett Packart Enterprise](https://www.docker.com/hpe), [Microsoft](https://www.docker.com/microsoft) nebo [Cisco](https://www.docker.com/cisco).
 
-Váš požadavek na vývoj v Dockeru přinese dodavateli pohodlí při realizaci a jednoduché předávání do vaší produkce. Pro vás znamená flexibilitu, jistotu a bezpečí.
+Váš požadavek na vývoj v Dockeru přinese dodavateli **pohodlí při realizaci** a **jednoduché předávání do vaší produkce**. Pro vás znamená **flexibilitu, jistotu a bezpečí**.
