@@ -3,10 +3,12 @@
 uzavřená podle § ust. §1746 odst. 2, § 1730 odst. 2 a § 504 zákona č. 89/2012 Sb., občanský zákoník, v účinném znění (dále jen „**občanský zákoník**“)
 
 
+```
 [...], IČ: [...], DIČ [...]
 se sídlem [...], [...], [...]
 zapsaná v obchodním rejstříku vedeného u [...], oddíl [...], vložka [...],
 zastoupená [jméno], [funkce]
+```
 
 (dále jen „Společnost“)
 
