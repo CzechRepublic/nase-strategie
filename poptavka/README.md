@@ -45,6 +45,6 @@ Jsme přesvědčeni, že zakázkový software placený z veřejných peněz **m�
 
 Tak jako [vmWare](http://www.vmware.com/) virtualizoval operační systém, virtualizoval Docker aplikace. Pokud vám někdo dodá aplikaci v Docker kontejneru, dovedete si ji velmi snadno spustit na svém serveru, aniž byste museli řešit kompatibilitu prostředí. Budete schopni velmi efektivně provozovat aplikaci v cloudu ([Azure Container Service](https://azure.microsoft.com/en-us/services/container-service/), [Amazon Container Service](https://aws.amazon.com/ecs/), [Google Container Engine](https://cloud.google.com/container-engine/)) i na svém serveru.
 
-Docker [kontejner je bezpečný](https://www.docker.com/docker-security) a důvěřují mu největší firmy na světě, jako např. [Accenture, Hewlett Packart, Microsoft, Cisco](https://www.docker.com/partners/partner-program#/partners_spotlight).
+Docker [kontejner je bezpečný](https://www.docker.com/docker-security) a důvěřují mu největší firmy na světě, jako např. [Accenture](https://www.docker.com/accenture), [Hewlett Packart Enterprise](https://www.docker.com/hpe), [Microsoft](https://www.docker.com/microsoft) nebo [Cisco](https://www.docker.com/cisco).
 
 Váš požadavek na vývoj v Dockeru přinese dodavateli pohodlí při realizaci a jednoduché předávání do vaší produkce. Pro vás znamená flexibilitu, jistotu a bezpečí.
