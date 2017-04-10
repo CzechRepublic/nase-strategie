@@ -14,6 +14,16 @@ Vždy po dodavateli požadujeme aby:
 
 1. veškeré zdrojové kódy veřejně publikoval pod licencí MIT do repozitíře zdrojových kódů ([GitHub](https://github.com/), [BitBucket](https://bitbucket.org/)) 
 2. veškeré funkční celky softwarového díla byly pokryty testy
-3. 
+3. vyvíjel software v souladu s principy "Continuous Deliver" 
+4. svoje dílo zapouzdřil do Docker kontejneru
+
+### co je MIT licence
+
+### proč chtít kód pokrýt testy
+
+### co znamená "Continuous Delivery"
+
+### co je Docker kontejner
+
 
 
