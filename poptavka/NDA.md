@@ -78,12 +78,14 @@ zastoupená [jméno], [funkce]
 ## PODPISOVÁ STRANA
 
 ```
+
+
 V ____________ dne ____________			V _____________ dne ____________	
 			
 
 
 
 ______________________________			_______________________________
-[Společnost]					        [Partner]
-[Jméno Přjmení], [funkce]				[Jméno Přjmení], [funkce]
+[Společnost]					     [Partner]
+[Jméno Přjmení], [funkce]		[Jméno Přjmení], [funkce]
 ```
