@@ -17,16 +17,25 @@ Vždy po dodavateli požadujeme aby:
 3. vyvíjel software v souladu s principy "Continuous Deliver" 
 4. svoje dílo zapouzdřil do Docker kontejneru
 
-### jakou svobodnou licenci vybrat?
+### jakou vybrat svobodnou licenci?
 
 V českém právním řádu je autor díla autorem. Svobodný software neznamená odcizení autorství. Pro užití díla je klíčová licence. Licence je kámen úrazu - klíčový dokument. Pokud je špatně nastavená, dostanete se do slepé uličky, jako před lety [ČSA](http://www.ceskatelevize.cz/ct24/ct24/ekonomika/1371604-reporteri-ct-csa-neopravnene-uzivaji-stare-logo) nebo hlavní město Praha a projekt [OpenCard](http://praha.idnes.cz/praha-odmita-platit-stamiliony-za-licence-k-opencard-f94-/praha-zpravy.aspx?c=A140506_144238_praha-zpravy_klu). 
 
-Jedna z nejsvobodnější licenci je [**MIT**]() - umožňuje libovolné modifikace díla a jakékoliv použití, včetně komerčního. MIT licencí nemůžete nic zkazit. Pokud si chcete detailně nastudovat principy svobodných licencí, podívejte se na web Právní Prostor - [Jak vybrat licenci k software – manuál pro právníky](http://www.pravniprostor.cz/clanky/obcanske-pravo/jak-vybrat-licenci-k-software-manual-pro-pravniky) a na web creativecommons.cz na [Vydali jsme praktický manuál pro obce k licencím CC](http://www.creativecommons.cz/vydali-jsme-prakticky-manual-pro-obce-k-licencim-cc/)
+Jedna z nejsvobodnější licenci je [**MIT**](https://cs.wikipedia.org/wiki/Licence_MIT) - umožňuje libovolné modifikace díla a jakékoliv použití, včetně komerčního. MIT licencí nemůžete nic zkazit. Pokud si chcete detailně nastudovat principy svobodných licencí, podívejte se na web Právní Prostor - [Jak vybrat licenci k software – manuál pro právníky](http://www.pravniprostor.cz/clanky/obcanske-pravo/jak-vybrat-licenci-k-software-manual-pro-pravniky) a na web creativecommons.cz na [Vydali jsme praktický manuál pro obce k licencím CC](http://www.creativecommons.cz/vydali-jsme-prakticky-manual-pro-obce-k-licencim-cc/)
 
+**Jsme přesvědčeni, že zakázkový software placený z veřejných peněz má být svobodné dílo!**
 
 ### co je repozitář zdrojových kódů
 
-([GitHub](https://github.com/), [BitBucket](https://bitbucket.org/)) 
+Repozitíř zdrojového kódu je místo, kde jsou uloženy kódy tvořící softwarové dílo. Nejznámější repozitáře jsou [GitHub](https://github.com/) a [BitBucket](https://bitbucket.org/). Veřejně dostupný repozitář umožní komukoliv vidět, jak se softwarové dílo v čase mění. [Zde](https://github.com/datasyscz/KeboolaChatbot/commits/master) například můžete vidět, jak firma DataSys s.r.o. programuje "ChatBota" a publikuje veřejně zdrojové kódy ([první vlašťovka](http://take.ms/axOvj)?).
+
+ Otevřený repozitář komukoliv umožní:
+  - podívat se jak je sw dílo naprogramované
+  - udělat si kopii (fork) a vyrobit vlastní verzi stejného díla
+  - najít chybu a poslat opravu (pull request)
+  - připomínkovat dílo a komunikovat s autorem (issues) 
+
+**Jsme přesvědčeni, že zakázkový software placený z veřejných peněz má být komukoliv otevřený!**
 
 ### proč chtít kód pokrýt testy
 
