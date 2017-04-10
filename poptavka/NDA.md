@@ -10,35 +10,35 @@ zapsaná v obchodním rejstříku vedeného u [...], oddíl [...], vložka [...]
 zastoupená [jméno], [funkce]
 ```
 
-(dále jen „Společnost“)
+(dále jen „**Společnost**“)
 
 a
 
+```
 [...], IČ: [...], DIČ [...]
 se sídlem [...], [...], [...]
 zapsaná v obchodním rejstříku vedeného u [...], oddíl [...], vložka [...],
 zastoupená [jméno], [funkce]
+```
 
-(dále jen „Partner“)
+(dále jen „**Partner**“)
 
-(Společnost a Partner dále společně jen „Smluvní strany“)
+(Společnost a Partner dále společně jen „**Smluvní strany**“)
 
 ## VZHLEDEM K TOMU, ŽE:
  
-1. Smluvní strany vzájemně spolupracují na základě [...] smlouvy ze dne [...], na základě které [...] / mají zájem spolupracovat v souvislosti s [...] (dále jen „Spolupráce“); 
-2. Smluvní strany mají v úmyslu sdělovat si vzájemně některé informace, které považují za důvěrné, zejména si sdělovat [...];
+1. Smluvní strany vzájemně spolupracují na základě smlouvy `o dílo` ze dne `[...]` (dále jen „**Spolupráce**“); 
+2. Smluvní strany mají v úmyslu sdělovat si vzájemně některé informace, které považují za důvěrné, zejména si sdělovat informace obchodní a technické povahy týkající se "**Spolupráce**", jakož i další informace týkající se "**Společnosti**", jejích zaměstnanců, dodavatelů, partnerů, zákazníků a potenciálních zákazníků`;
 3. Smluvní strany mají zájem chránit navzájem poskytnuté informace před jejich zneužitím;
 
-## UZAVÍRAJÍ SMLUVNÍ STRANY NÍŽE UVEDENÉHO DNE, MĚSÍCE A ROKU TUTO:
-
-## SMLOUVU O ZACHOVÁNÍ DŮVĚRNOSTI INFORMACÍ
-(dále jen „Smlouva“)
+## UZAVÍRAJÍ SMLUVNÍ STRANY NÍŽE UVEDENÉHO DNE, MĚSÍCE A ROKU TUTO SMLOUVU O ZACHOVÁNÍ DŮVĚRNOSTI INFORMACÍ
+(dále jen „**Smlouva**“)
 
 1. Předmět
     1. Předmětem této Smlouvy je sjednání práv a povinností Smluvních stran ve vztahu k poskytování, používání a ochraně Důvěrných informací, a také odpovědnost Smluvních stran za porušení této Smlouvy, a to ve vztahu k Důvěrným informacím, které obdržely, získaly, jinak se o nich dozvěděly či jim byly poskytnuty před i v průběhu Spolupráce Smluvních stran.
 
 2. Důvěrné informace
-    1. Smluvní strany sjednávají, že za důvěrnou informaci považují veškeré informace důvěrné povahy v jakékoli formě, elektronické údaje nebo skutečnosti jakéhokoli druhu, včetně informací obchodních, výrobních, organizačních, technických, know-how nebo jakákoli jiná práva duševního vlastnictví, data, dokumenty, osobní údaje o jakékoli osobě nebo jiné informace týkající se klientů či jiných smluvních partnerů Smluvních stran, zaměstnanců, vnitřní informace (zejména, ale nikoli výlučně skutečnosti, které tvoří obchodní tajemství dle ust. § 504 občanského zákoníku), jakož i veškeré další informace získané před nebo po podepsání této Smlouvy týkající se jedné Smluvní strany, která druhá Smluvní strana získala v souvislosti se Spoluprací (dále jen „Důvěrné informace“).
+    1. Smluvní strany sjednávají, že za důvěrnou informaci považují veškeré informace důvěrné povahy v jakékoli formě, elektronické údaje nebo skutečnosti jakéhokoli druhu, včetně informací obchodních, výrobních, organizačních, technických, know-how nebo jakákoli jiná práva duševního vlastnictví, data, dokumenty, osobní údaje o jakékoli osobě nebo jiné informace týkající se klientů či jiných smluvních partnerů Smluvních stran, zaměstnanců, vnitřní informace (zejména, ale nikoli výlučně skutečnosti, které tvoří obchodní tajemství dle ust. § 504 občanského zákoníku), jakož i veškeré další informace získané před nebo po podepsání této Smlouvy týkající se jedné Smluvní strany, která druhá Smluvní strana získala v souvislosti se Spoluprací (dále jen „**Důvěrné informace**“).
     2. Za Důvěrné informace Smluvní strany **nepovažují** informace, které jsou: 
         1. veřejné známé nebo se v budoucnu stanou veřejně známé široké veřejnosti se všemi detaily prokazatelně jinak než porušením povinností obsažených v této Smlouvě, 
         2. ke kterým příslušná Smluvní strana nezávisle dospěje, aniž by porušila jakýkoli právní předpis nebo ustanovení této Smlouvy.
