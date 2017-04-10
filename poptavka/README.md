@@ -2,7 +2,9 @@
 
 ### Co znamená "svobodný"?
 
-"Svobodný" neznamená zadarmo ani amatérsky. Software šířený pod svobodnou licencí dnes pohání nejkritičtější aplikace na trhu. Například sám Oracle, enterprise IT vendor, produkuje velké množství svobodného software ([Oracle & Open Source](http://www.oracle.com/us/technologies/open-source/overview/index.html)). 
+"Svobodný" neznamená zadarmo ani amatérsky. Software šířený pod svobodnou licencí dnes pohání nejkritičtější aplikace na trhu. Například sám Oracle, enterprise IT vendor, produkuje velké množství svobodného software ([Oracle & Open Source](http://www.oracle.com/us/technologies/open-source/overview/index.html)). Svobodný software je bezpečný, důvěryhodný, transparentní a vztahy kolem něj jsou postavené na správných základech.
+
+Poptávání svobodného software neznamená, že musíte otevírat svá obchodní tajemství, osobní údaje nebo jakkoliv ohrožovat bezpečí "produkčního prostředí". Pro vaše pohodlí můžete používat náma vyzkoušenou [šablonu Smlouvy o mlčenlivosti](https://github.com/CzechRepublic/nase-strategie/blob/master/poptavka/NDA-cz.md).
 
 ### Výhody svobodného software pro stát
 
