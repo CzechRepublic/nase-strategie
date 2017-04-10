@@ -38,9 +38,9 @@ Repozitíř zdrojového kódu je místo, kde jsou uloženy kódy tvořící soft
 Jsme přesvědčeni, že zakázkový software placený z veřejných peněz **má být komukoliv otevřený!**
 
 ### proč chtít kód pokrýt testy
-
+> TBD
 ### co znamená "Continuous Delivery"
-
+> TBD
 ### co je Docker kontejner
 
 
