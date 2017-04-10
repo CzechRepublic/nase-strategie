@@ -34,7 +34,7 @@ zastoupená [jméno], [funkce]
 ## UZAVÍRAJÍ SMLUVNÍ STRANY NÍŽE UVEDENÉHO DNE, MĚSÍCE A ROKU TUTO SMLOUVU O ZACHOVÁNÍ DŮVĚRNOSTI INFORMACÍ
 (dále jen „**Smlouva**“)
 
-1. Předmět
+1. **Předmět**
     1. Předmětem této Smlouvy je sjednání práv a povinností Smluvních stran ve vztahu k poskytování, používání a ochraně Důvěrných informací, a také odpovědnost Smluvních stran za porušení této Smlouvy, a to ve vztahu k Důvěrným informacím, které obdržely, získaly, jinak se o nich dozvěděly či jim byly poskytnuty před i v průběhu Spolupráce Smluvních stran.
 
 2. Důvěrné informace
