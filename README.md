@@ -51,7 +51,7 @@ Státní správa tím získá stabilní zdroj talentů, kteří budou soutěžit
 
 ## Platby
 
-Stát by měl emitovat vlastní krypto měnu (ala bitcoin), která v sobě může mít rovnou naprogramované daně. Česká Spořitelna znovu může posloužit jako příklad banky, schopné připravit infrastrukturu pro pilotní projekt. Základní výhody kryproměny jsou ve sledovatelnosti peněz a v algoritmizovatelnosti jejich funkčních principů (zaplacením se ihned odvede DPH, apod.). Pokud jde dokonale sledovat pohyb peněz, přestane dávat smysl krást a páchat trestnou činnost.
+Stát by měl emitovat vlastní kryptoměnu (ala bitcoin), která v sobě může mít rovnou naprogramované daně. Česká Spořitelna znovu může posloužit jako příklad banky, schopné připravit infrastrukturu pro pilotní projekt. Základní výhody kryproměny jsou ve sledovatelnosti peněz a v algoritmizovatelnosti jejich funkčních principů (zaplacením se ihned odvede DPH, apod.). Pokud jde dokonale sledovat pohyb peněz, přestane dávat smysl krást a páchat trestnou činnost.
 
 ## Interface Stát <> Občané
 
